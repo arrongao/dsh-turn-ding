@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "title": {
+    "en": "DSH Completion Reminders",
+    "zh": "DSH 完成提醒插件索引"
+  },
+  "description": {
+    "en": "Community plugin index for dsh-turn-ding — taskbar badge and completion chime for DeepSeek Harness.",
+    "zh": "dsh-turn-ding 的社区插件索引——为 DeepSeek Harness 提供任务栏数字徽标与完成提示音。"
+  },
+  "metadata": {
+    "labels": {
+      "windows-only": {
+        "title": { "en": "Windows only", "zh": "仅限 Windows" }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-turn-ding",
+      "title": {
+        "en": "Turn Ding — completion badge & chime",
+        "zh": "完成提示 · 任务栏徽标与提示音"
+      },
+      "description": {
+        "en": "Shows an unread number badge on the Windows taskbar icon and plays a chime whenever a DeepSeek Harness session finishes.",
+        "zh": "每当一个 DeepSeek Harness 会话完成，就在 Windows 任务栏图标右上角显示未读数字徽标，并播放提示音。"
+      },
+      "author": "Arron",
+      "metadata": {
+        "keywords": ["badge", "notification", "taskbar", "windows", "completion"],
+        "labels": ["windows-only"]
+      },
+      "versions": [
+        {
+          "version": "0.1.1",
+          "publishTimestamp": 1794650620,
+          "source": {
+            "type": "npm",
+            "registry": "https://registry.npmjs.org/"
+          },
+          "engines": {
+            "dsh": ">=0.2.1-alpha.2 <0.4.0"
+          }
+        }
+      ]
+    }
+  ]
+}
