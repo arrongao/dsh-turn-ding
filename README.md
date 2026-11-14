@@ -49,7 +49,7 @@ dsh plugin --profile desktop add dsh-turn-ding
 在「插件 → 实验性插件」启用**自定义插件索引**，再到「发现 → 添加索引源」填入本仓库 `index.json` 的公开地址：
 
 ```
-https://raw.githubusercontent.com/<owner>/dsh-turn-ding/main/index.json
+https://raw.githubusercontent.com/arrongao/dsh-turn-ding/main/index.json
 ```
 
 索引只是省掉手输包名这一步，装的仍是同一个 npm 包。

@@ -26,7 +26,11 @@
         "en": "Shows an unread number badge on the Windows taskbar icon and plays a chime whenever a DeepSeek Harness session finishes.",
         "zh": "每当一个 DeepSeek Harness 会话完成，就在 Windows 任务栏图标右上角显示未读数字徽标，并播放提示音。"
       },
-      "author": "Arron",
+      "author": "Arron Gao",
+      "homepage": "https://github.com/arrongao/dsh-turn-ding#readme",
+      "repository": {
+        "url": "https://github.com/arrongao/dsh-turn-ding"
+      },
       "metadata": {
         "keywords": ["badge", "notification", "taskbar", "windows", "completion"],
         "labels": ["windows-only"]

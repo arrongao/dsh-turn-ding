@@ -24,8 +24,13 @@
     "windows",
     "taskbar"
   ],
-  "author": "Arron",
+  "author": "Arron Gao <arron.gaoxc@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrongao/dsh-turn-ding.git"
+  },
+  "homepage": "https://github.com/arrongao/dsh-turn-ding#readme",
   "os": [
     "win32"
   ],
