@@ -11,7 +11,10 @@
   "metadata": {
     "labels": {
       "windows-only": {
-        "title": { "en": "Windows only", "zh": "仅限 Windows" }
+        "title": {
+          "en": "Windows only",
+          "zh": "仅限 Windows"
+        }
       }
     }
   },
@@ -32,13 +35,21 @@
         "url": "https://github.com/arrongao/dsh-turn-ding"
       },
       "metadata": {
-        "keywords": ["badge", "notification", "taskbar", "windows", "completion"],
-        "labels": ["windows-only"]
+        "keywords": [
+          "badge",
+          "notification",
+          "taskbar",
+          "windows",
+          "completion"
+        ],
+        "labels": [
+          "windows-only"
+        ]
       },
       "versions": [
         {
-          "version": "0.1.1",
-          "publishTimestamp": 1794650620,
+          "version": "0.1.2",
+          "publishTimestamp": null,
           "source": {
             "type": "npm",
             "registry": "https://registry.npmjs.org/"
