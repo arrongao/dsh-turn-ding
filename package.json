@@ -1,6 +1,6 @@
 {
   "name": "dsh-turn-ding",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Windows taskbar unread badge and completion chime for DeepSeek Harness turns",
   "type": "module",
   "main": "lib/index.js",
@@ -14,8 +14,10 @@
     "cordis.patch.yml",
     "index.json",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "icon.png"
   ],
+  "icon": "./icon.png",
   "keywords": [
     "dsh",
     "dsh-plugin",
